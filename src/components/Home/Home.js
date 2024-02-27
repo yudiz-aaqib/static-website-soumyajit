@@ -22,15 +22,7 @@ function Home() {
 
               <h1 className="heading-name">
                 I'M
-<<<<<<< HEAD
-<<<<<<< HEAD
-                <strong className="main-name"> YUDIZZZZZZZZZZZZZZZZZZZZZZZZZZ</strong>
-=======
-                <strong className="main-name"> SOUMYAJIT</strong>
->>>>>>> parent of 9df4b4c (fresh-add-yudiz)
-=======
-                <strong className="main-name"> SOUMYAJIT</strong>
->>>>>>> parent of 9df4b4c (fresh-add-yudiz)
+                <strong className="main-name"> SOUMYAJIT BEHERA</strong>
               </h1>
 
               <div style={{ padding: 50, textAlign: "left" }}>
