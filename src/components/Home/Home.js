@@ -22,7 +22,11 @@ function Home() {
 
               <h1 className="heading-name">
                 I'M
+<<<<<<< HEAD
                 <strong className="main-name"> YUDIZ</strong>
+=======
+                <strong className="main-name"> SOUMYAJIT BEHERA</strong>
+>>>>>>> parent of f541e2d (name changes)
               </h1>
 
               <div style={{ padding: 50, textAlign: "left" }}>
