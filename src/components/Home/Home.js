@@ -15,10 +15,17 @@ function Home() {
             <Col md={7} className="home-header">
               <h1 style={{ paddingBottom: 15 }} className="heading">
 <<<<<<< HEAD
+<<<<<<< HEAD
                 Hi There!{" "}
 =======
                 Hi There!!!!!!!!!!!!!!!!!!!!{" "}
 >>>>>>> parent of 422e173 (testing-4)
+=======
+                Hi There!!!!!!!!!!!!!!!!!!!!{" "}
+=======
+                Hi There!{" "}
+>>>>>>> parent of 200ad91 (pipeline testing)
+>>>>>>> parent of 3fc5abd (pipeline testing)
                 <span className="wave" role="img" aria-labelledby="wave">
                   👋🏻
                 </span>
@@ -27,10 +34,14 @@ function Home() {
               <h1 className="heading-name">
                 I'M
 <<<<<<< HEAD
+<<<<<<< HEAD
                 <strong className="main-name"> YUDIZ</strong>
 =======
                 <strong className="main-name"> SOUMYAJIT BEHERA</strong>
 >>>>>>> parent of f541e2d (name changes)
+=======
+                <strong className="main-name"> Aaqib</strong>
+>>>>>>> parent of 3fc5abd (pipeline testing)
               </h1>
 
               <div style={{ padding: 50, textAlign: "left" }}>
