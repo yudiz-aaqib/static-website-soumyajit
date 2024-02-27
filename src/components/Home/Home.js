@@ -23,6 +23,7 @@ function Home() {
               <h1 className="heading-name">
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                 I am
                 <strong className="main-name"> Aaqib</strong>
 =======
@@ -37,6 +38,10 @@ function Home() {
                 <strong className="main-name"> SOUMYAJIT</strong>
 >>>>>>> parent of 9df4b4c (fresh-add-yudiz)
 >>>>>>> parent of ddb695f (working)
+=======
+                I'M
+                <strong className="main-name"> SOUMYAJIT BEHERA</strong>
+>>>>>>> parent of 39016dd (aaqib name add)
 =======
                 I'M
                 <strong className="main-name"> SOUMYAJIT BEHERA</strong>
